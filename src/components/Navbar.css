@@ -1,0 +1,22 @@
+#navBar {
+    height: 50px;
+    padding: 0 0.5rem 0 0.5rem;
+}
+
+#homeIcon {
+    cursor: pointer;
+}
+
+#homeIcon:hover {
+    color: coral;
+    transition: .8s;
+}
+
+#navBarRight {
+    display: flex;
+    align-items: center
+}
+
+#settingsIcon {
+    padding-right: 5px;
+}
