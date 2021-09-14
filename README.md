@@ -1,6 +1,6 @@
 # Blockchain social app
 
-![image](https://raw.githubusercontent.com/FilipMachinia/Social-app/master/social-network/public/screenshot.PNG)
+![image](https://github.com/FilipMachinia/Social-app/blob/main/public/screenshot.PNG?raw=true)
 
 Small blockchain app.
 
